@@ -4,7 +4,7 @@ import 'package:friday/sections/chat.dart';
 import 'package:friday/sections/text_and_image.dart';
 
 void main() {
-  Gemini.init(apiKey: '', enableDebugging: true);
+  Gemini.init(apiKey: 'AIzaSyDDEdN89laTbTO8JEHJULde5fPm-h1GRGY', enableDebugging: true);
   runApp(const MyApp());
 }
 
